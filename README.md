@@ -39,7 +39,7 @@ I'm a Computer Science Engineering (AI & ML) student passionate about building i
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,jupyter,pycharm" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm" />
 </p>
 
 ---
@@ -125,22 +125,6 @@ Python
 - Write Effective Prompts
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohith-talari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-talari&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rohith-talari&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 # 🔥 GitHub Streak
 
