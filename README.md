@@ -79,6 +79,7 @@ Python automation project for generating professional resumes.
 **Tech Used**
 
 Python
+
 ---
 
 # 🎓 Education
