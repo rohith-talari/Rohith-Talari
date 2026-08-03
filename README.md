@@ -79,26 +79,6 @@ Python automation project for generating professional resumes.
 **Tech Used**
 
 Python
-
----
-
-## ⚙ CPU Scheduling Visualizer
-
-Interactive Operating System simulator.
-
-### Features
-
-- FCFS
-- SJF
-- Priority Scheduling
-- Round Robin
-- Process Visualization
-- Gantt Chart Simulation
-
-**Tech Used**
-
-Python
-
 ---
 
 # 🎓 Education
