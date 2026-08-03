@@ -130,9 +130,9 @@ Python
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohith-talari&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohith-Talari&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-talari&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Talari&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -142,7 +142,7 @@ Python
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-talari&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Talari&theme=tokyonight"/>
 
 </p>
 
